@@ -1,0 +1,14 @@
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\bin\Debug\net9.0\ProblemSolvingTechniques.exe
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\bin\Debug\net9.0\ProblemSolvingTechniques.deps.json
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\bin\Debug\net9.0\ProblemSolvingTechniques.runtimeconfig.json
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\bin\Debug\net9.0\ProblemSolvingTechniques.dll
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\bin\Debug\net9.0\ProblemSolvingTechniques.pdb
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.AssemblyInfoInputs.cache
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.AssemblyInfo.cs
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.csproj.CoreCompileInputs.cache
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.dll
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\refint\ProblemSolvingTechniques.dll
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.pdb
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.genruntimeconfig.cache
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ref\ProblemSolvingTechniques.dll
