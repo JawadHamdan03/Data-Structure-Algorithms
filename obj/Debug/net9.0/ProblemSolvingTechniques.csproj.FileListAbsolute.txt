@@ -12,3 +12,4 @@ C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\o
 C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.pdb
 C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.genruntimeconfig.cache
 C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ref\ProblemSolvingTechniques.dll
+C:\Users\hamda\Desktop\Jawad\Projects\GeneralProjects\ProblemSolvingTechniques\obj\Debug\net9.0\ProblemSolvingTechniques.sourcelink.json
